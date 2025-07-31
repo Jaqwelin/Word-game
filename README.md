@@ -1,6 +1,6 @@
-# LexiGrid
+# Word game
 
-LexiGrid is a web-based puzzle game that combines elements of Sudoku, Wordle, and Word Search.
+Word game is a web-based puzzle game that combines elements of Sudoku, Wordle, and Word Search.
 
 ## How to Play
 
